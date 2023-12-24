@@ -1,3 +1,5 @@
+# Name: LAVANYA S
+# Reg No:23012917
 # Correlation and regression for data analysis
 # Aim : 
 
